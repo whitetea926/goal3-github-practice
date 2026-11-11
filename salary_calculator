@@ -1,6 +1,0 @@
-hours = float(input("Enter hours worked: "))
-rate = float(input("Enter hourly rate: "))
-
-salary = hours * rate
-
-print("Total salary:", salary)
